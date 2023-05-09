@@ -108,6 +108,6 @@ The test for the classes are in the [test_models](./tests/test_models/) folder.
 
 ## Authors
 
-- [Ohinoyi Moiza](https://github.com/Ohimoiza) ~ [LinkedIn](https://www.linkedin.com/in/ohinoyi-moiza) ~ [@Ohimoiza](ohimoiza12@gmail.com):
+- [Ohinoyi Moiza](https://github.com/Ohimoiza) ~ [LinkedIn](https://www.linkedin.com/in/ohinoyi-moiza) ~ [@Gmail](ohimoiza12@gmail.com):
 *Sharpening my skills at Holberton School of Software Engineering. I have a lifelong passion for programming with a background in mathematics and a daily meditation practice. Spent the last several years enjoying working as a private tutor and am now excited to practice software wizardry professionally.*
-- **Egbuta Godslove** - [princeugo820@gmail.com](https://github.com/Egbuta-Godslove)
+- [Egbuta Godslove](https://github.com/Egbuta-Godslove) ~ [LinkedIn](https://www.linkedin.com/in/godslove-egbuta) ~ [@Gmail](princeugo820@gmail.com)
