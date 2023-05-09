@@ -1,6 +1,7 @@
 ## 0x00. AirBnB clone - The console
 `Group project` `Python` `OOP`
 
+![Air](https://user-images.githubusercontent.com/118941659/237055491-12f6bd8d-95eb-40f5-af92-658345b3d5ce.JPG)
 ## Background Context
 ## Welcome to the AirBnB clone project!
 Before starting, please read the `AirBnB` concept page.
